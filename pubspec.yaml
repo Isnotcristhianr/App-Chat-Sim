@@ -51,14 +51,14 @@ flutter_launcher_icons:
   web:
     generate: true
     image_path: "lib/assets/logo.png"
-    background_color: "#hexcode"
-    theme_color: "#hexcode"
+    background_color: "#ffffff"
+    theme_color: "#2196F3"
   windows:
-    generate: false
+    generate: true
     image_path: "lib/assets/logo.png"
     icon_size: 48 # min:48, max:256, default: 48
   macos:
-    generate: false
+    generate: true
     image_path: "lib/assets/logo.png"
 
 flutter_native_splash:
